@@ -112,8 +112,9 @@
   }
   
   .logo {
-    background-color: var(--primary-color);
+    /* background-color: var(--primary-color); */
     color: white;
+    margin-top: -11px;
     width: 50px;
     height: 50px;
     border-radius: 50%;
@@ -122,7 +123,7 @@
     align-items: center;
     font-weight: 700;
     font-size: 18px;
-    margin-right: 15px;
+    margin-right: 10px;
   }
   
   .logo-text h1 {
